@@ -1,0 +1,4 @@
+secrets.txt
+
+# want to ignore the secrets file 
+# *.txt - means when you commit a project, txt extension files get ignored
